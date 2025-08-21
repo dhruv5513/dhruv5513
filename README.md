@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithm using Java And Machine Learning**
 
-- 📫 How to reach me **www.linkedin.com/in/ dhurav-goyal-1b2b37287**
+- 📫 How to reach me **www.linkedin.com/in/dhurav-goyal-1b2b37287**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
